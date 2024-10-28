@@ -2,7 +2,7 @@
 <h1 align="center">
   SNFT Farm
 </h1>
- <img width="800" alt="solpad" src="https://i.imgur.com/oSr82Id.png" />
+ <img width="800" alt="solpad" src="https://i.imgur.com/bOkJSmn.png" />
 Docs: https://docs.snft.pro/play-to-earn
 
 It is an on-chain game runs on Sepolia testnet network. 
