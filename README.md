@@ -17,13 +17,11 @@ https://portal.thirdweb.com/typescript/v5/migrate
 We hope you enjoy the game. 
 
 
-1-
-add `.env.example` file with your keys.
+1- Update `.env.example` file with your keys, then rename it to `.env`
 
+2- Deploy your own contracts and add them to  `/constants/contracts` file.
 
-2=Install:
-
-
+3-Install:
 
 ```sh
 npm install
